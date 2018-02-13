@@ -30,7 +30,7 @@
 
 clc
 
-!git commit -a -m "trying to add, commit and push all in one fell swoop..."
+!git commit -a -m "done for the day"
 !git push
 
 %Hmm still got the blue box... that's fine I guess, I know it's up to date,
@@ -38,3 +38,9 @@ clc
 %circle) a couple of seconds after anyhow.
 % I guess, maybe, the !commands above go outside of matlab, and then matlab
 % is infrequenctly communicating with git...
+
+% The answer to the staging question (aka why I need the -a flag above) is
+% here:
+% https://stackoverflow.com/questions/21134960/what-does-changes-not-staged-for-commit-mean
+
+% I must remember to save before running...
