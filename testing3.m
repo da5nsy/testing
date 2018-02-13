@@ -19,3 +19,7 @@
 % Nah. Turns out I would actually have to do this:
 % https://uk.mathworks.com/matlabcentral/answers/263934-every-time-i-push-to-the-remote-github-repository-i-have-to-re-input-my-username-and-password-is-t#answer_206317
 % which I am definitely not spending my time doing.
+
+% OH OK. I found a workaround. I can do it via the command line:
+
+%   
