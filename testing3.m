@@ -15,3 +15,7 @@
 % https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git
 % and perhaps that means I won't have to enter my password when I push
 % now...
+
+% Nah. Turns out I would actually have to do this:
+% https://uk.mathworks.com/matlabcentral/answers/263934-every-time-i-push-to-the-remote-github-repository-i-have-to-re-input-my-username-and-password-is-t#answer_206317
+% which I am definitely not spending my time doing.
