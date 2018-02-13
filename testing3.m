@@ -28,6 +28,8 @@
 % Then followed by:
 % !git push
 
+clc
+
 !git commit -a -m "trying to add, commit and push all in one fell swoop..."
 !git push
 
