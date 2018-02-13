@@ -33,4 +33,8 @@ clc
 !git commit -a -m "trying to add, commit and push all in one fell swoop..."
 !git push
 
-%Hmm still got the blue box...
+%Hmm still got the blue box... that's fine I guess, I know it's up to date,
+%oh and it seems to automatically update itself (give me back the green
+%circle) a couple of seconds after anyhow.
+% I guess, maybe, the !commands above go outside of matlab, and then matlab
+% is infrequenctly communicating with git...
