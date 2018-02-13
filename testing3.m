@@ -22,4 +22,13 @@
 
 % OH OK. I found a workaround. I can do it via the command line:
 
-%   
+%   !git commit -a -m "oh all the stuffs" %The -a is the all flag, and this
+%   means that I don't have to add specific files again, I can just throw
+%   them all in together.
+% Then followed by:
+% !git push
+
+!git commit -a -m "trying to add, commit and push all in one fell swoop..."
+!git push
+
+%Hmm still got the blue box...
